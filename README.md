@@ -6,7 +6,7 @@ public class vkh700 {
     System.out.println("---");
 
     System.out.println("- I code in: Java, Python, HTML, CSS, JS, Jquery, PHP");
-    System.out.println("- I am currently working on: ChirpEcho, HeyTux");
+    System.out.println("- I am currently working on: ChirpEcho, pitanga");
     System.out.println("- Contact me: vkh700@getyomail.cc");
     System.out.println("- My website: https://kryte.org");
 
